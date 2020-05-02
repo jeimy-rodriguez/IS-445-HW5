@@ -1,14 +1,13 @@
-
-#idnum1,#idnum2
-{
-font-weight: bold;    
-}
 #message{
     color: red;
+    text-align: center;
 }
 #primeNumber{
     color: teal;
+    text-align: center;
 }
+
+
 #container{
     text-align: center;
     background-color: teal;
@@ -21,6 +20,7 @@ body{
 form{
     padding: 10px;
     margin: auto;
+    align-content: center;
 }
 button{
     color: teal;
@@ -35,14 +35,18 @@ button{
 label { 
     width: auto; 
     float: left; 
-    margin: 0 20px 0 0; 
+    display: block;
+    margin: 5px; 
 }
 span { 
     display: block; 
-    margin: 0 0 5px; 
+    padding: 5px; 
+    margin: auto;
+    align-content: center;
 }
 input { 
     width: 200px; 
     border: 1px solid grey; 
     padding: 5px; 
+    align-content: center;
 }
