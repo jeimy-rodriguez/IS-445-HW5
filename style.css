@@ -3,3 +3,46 @@
 {
 font-weight: bold;    
 }
+#message{
+    color: red;
+}
+#primeNumber{
+    color: teal;
+}
+#container{
+    text-align: center;
+    background-color: teal;
+    color: white;
+    padding: 15px;
+}
+body{
+    font-family: Arial;
+}
+form{
+    padding: 10px;
+    margin: auto;
+}
+button{
+    color: teal;
+    background-color: white;
+    padding: 5px;
+    border: 2px solid teal;
+    vertical-align: auto;
+}
+#divForm{
+    text-align: center;
+}
+label { 
+    width: auto; 
+    float: left; 
+    margin: 0 20px 0 0; 
+}
+span { 
+    display: block; 
+    margin: 0 0 5px; 
+}
+input { 
+    width: 200px; 
+    border: 1px solid grey; 
+    padding: 5px; 
+}
