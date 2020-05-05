@@ -59,7 +59,6 @@ input {
     min-height: 3vh;
     max-width: 70vw;
     min-width: 70vw;
-    /*margin-top: 1vh;*/
     padding-left: 1vw;
 }
 
@@ -71,5 +70,4 @@ form{
     min-height: 3vh;
     max-width: 70vw;
     min-width: 70vw;
-   /* margin-top: 1vh;*/
 }
